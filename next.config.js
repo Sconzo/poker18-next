@@ -4,7 +4,7 @@ const nextConfig = {
   swcMinify: true,
   output: 'standalone',
   compress: false,
-  image:{
+  images:{
     unoptimized:true
   }
 }
